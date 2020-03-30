@@ -7,10 +7,10 @@ title: "Cultura"
 Este é o guia, em constante evolução, da nossa cultura.
 
 ## Nossa Visão
-BE THE FIRST CHOICE OF PEOPLE FOR DEVELOPMENT AND RECRUITING IN LATIN AMERICA FOR DIGITAL FUNCTIONS
+Be the first choice of people for development and recruiting in Latin America for digital functions
 
 ## Nossa Missão
-CREATE MEANINGFUL CAREER OPPORTUNITIES BY BRIDGING THE DIGITAL SKILLS GAP IN LATIN AMERICA
+Create meaningful carreer opportunities by bridging the digital skills gap in Latin America
 
 ## Quais são os valores de um Tryber?
 
