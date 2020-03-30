@@ -1,49 +1,40 @@
 ---
 weight: 3
-title: "Culture"
+title: "Cultura"
 ---
 
-# Culture
+# Cultura
+Este é o guia, em constante evolução, da nossa cultura.
 
-## Life at GitLab
-It’s an exciting time to be part of GitLab. We're a fast-growing, all-remote team, and we're looking for people to join us around the world. Here's a look at what you can expect from our culture and all-remote environment.
+## Nossa Visão
+Be the first choice of people for development and recruiting in Latin America for digital functions
 
-### Everyone can contribute
-Our size and our mission (that everyone can contribute) mean that our team members can — and are expected to — make an impact across the company.
+## Nossa Missão
+Create meaningful carreer opportunities by bridging the digital skills gap in Latin America
 
-Because we all use our product internally, you don't have to be a developer to learn to collaborate in the GitLab tool. From your very first week, no matter your role, you'll gain the technical skills needed to access, question, and contribute to projects far beyond your job description.
+## Quais são os valores de um Tryber?
 
-This unique approach works because we're a team of helpful, passionate people who want to see each other, the company, and the broader GitLab community succeed. We learn from each other, challenge each other, and thank each other.
+### Confiança Genuína
+Confiança genuína uns nos outros permite que tenhamos um ambiente seguro para o desenvolvimento do nosso time, dos nossos objetivos coletivos e das nossas relações.
 
-Come prepared to do meaningful work that will help shape the future of the company.
+### Transparência
+Transparência com todas as informações da companhia, assim todos têm acesso ao contexto e aos dados necessários para fazer o melhor trabalho e tomar as melhores decisões. Todo mundo tem o direito e o dever de dar sua opinião, independentemente de hierarquia.
 
-While the opportunities to contribute are boundless in a growing organization like GitLab, they may not be clearly defined. You'll need to think creatively, speak up to see how you can help, and be willing to try something new.
+### Autonomia
+Autonomia para as pessoas mostrarem o melhor do seu trabalho e o melhor de si. Celebramos o erro honesto, devidamente documentado, para que vire conhecimento.
 
-### Freedom to iterate
-At GitLab, our value of iteration has a unique impact on the way we operate and get things done.
+### Colaboração
+Colaboração é tratarmos uns aos outros com respeito, amizade, trabalhando em prol do coletivo, sem vaidade, ego e individualismo. O nosso sempre vem primeiro do meu.
 
-Working this way means our team members are expected to quickly deliver the minimum viable change in their work instead of waiting to produce a polished, completed product.
+### Focamos no Longo Prazo
+Focamos no longo prazo, afinal sonhamos grande e estamos aqui para construir algo que seja realmente GIGANTE e transformacional. Priorizaremos sempre o longo prazo, por mais dolorida e difícil que a decisão se mostre no curto prazo.
 
-While this can be a challenging practice to adopt at first, it's liberating to be able to make mistakes, get feedback quickly, and course correct to reach a better outcome, faster.
+### Executamos Muito
+Executamos muito e somos focados no resultado. Nosso ambiente é um lugar de pessoas que gostam de trabalhar duro para cumprir nosso propósito.
 
-As our company and the industry continue to grow, you'll have the freedom to change and constantly evolve everything from your schedule and your workspace to your job description and your skills.
+### Qualidade é Prioridade
+Qualidade é prioridade. Somos obcecados por entregas de excelência, que surpreendam positivamente e superem as expectativas dos nossos clientes.
 
-## Advantages
-Top 10 reasons to work for GitLab:
+### Reconhecemos os Talentos
+Reconhecemos os talentos, pois sabemos que, para vencer, temos que nos cercar sempre das melhores pessoas. Buscamos construir um ambiente de excelência, onde todo o time seja exposto a desafios, oportunidades e, claro, recompensas.
 
-- Work with helpful, kind, motivated, and talented people.
-- Work remote so you have no commute and are free to travel and move.
-- Have flexible work hours so you are there for other people and free to plan the day how you like.
-- Everyone works remote, but you don't feel remote. We don't have a head office, so you're not in a satellite office.
-- Work on open source software so you can interact with a large community and can show your work.
-- Work on a product you use every day: we drink our own wine.
-- Work on a product used by lots of people that care about what you do.
-- As a company we contribute more than we take, most of our work is released as the open source GitLab CE.
-- Focused on results, not on long hours, so that you can have a life and don't burn out.
-- Open internal processes: know what you're getting in to and be assured we're thoughtful and effective.
-- Other pages related to culture
-- GitLab 101
-- GitLab Contribute
-- Internal Feedback
-- Diversity and Inclusion
-- All-Remote
