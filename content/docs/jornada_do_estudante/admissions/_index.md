@@ -5,4 +5,4 @@ title: "Admissions/Seleção"
 
 # Admissions
 
-Vertical responsável pelo processo seletivo dos candidatos a entrar no curso da Trybe
+Vertical responsável pelo processo seletivo das pessoas candidatas a entrar no curso da Trybe
