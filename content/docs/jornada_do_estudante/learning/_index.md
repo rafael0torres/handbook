@@ -1,5 +1,8 @@
 ---
 weight: 2
-bookFlatSection: true
 title: "Learning/Aprendizagem"
 ---
+
+# Learning
+
+Vertical responsável pela formação dos/das estudantes durante o curso da Trybe
