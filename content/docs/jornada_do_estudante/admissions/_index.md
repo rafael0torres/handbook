@@ -1,5 +1,8 @@
 ---
 weight: 1
-bookFlatSection: true
 title: "Admissions/Seleção"
 ---
+
+# Admissions
+
+Vertical responsável pelo processo seletivo dos candidatos a entrar no curso da Trybe
