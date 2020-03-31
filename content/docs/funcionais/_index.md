@@ -9,6 +9,6 @@ title: "Áreas Funcionais"
 - Tecnologia e Conteúdo
 - Produto
 - Marketing
+- Dados
 - Biz Dev
 - Expansão
-- Dados
