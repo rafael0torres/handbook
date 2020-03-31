@@ -1,7 +1,5 @@
 ---
 weight: 3
 bookFlatSection: true
-title: "People"
+title: "Pessoas"
 ---
-
-asd
