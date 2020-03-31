@@ -14,27 +14,27 @@ Create meaningful carreer opportunities by bridging the digital skills gap in La
 
 ## Quais são os valores de um Tryber?
 
-### Confiança Genuína
+1. Confiança Genuína
 Confiança genuína uns nos outros permite que tenhamos um ambiente seguro para o desenvolvimento do nosso time, dos nossos objetivos coletivos e das nossas relações.
 
-### Transparência
+2. Transparência
 Transparência com todas as informações da companhia, assim todos têm acesso ao contexto e aos dados necessários para fazer o melhor trabalho e tomar as melhores decisões. Todo mundo tem o direito e o dever de dar sua opinião, independentemente de hierarquia.
 
-### Autonomia
+3. Autonomia
 Autonomia para as pessoas mostrarem o melhor do seu trabalho e o melhor de si. Celebramos o erro honesto, devidamente documentado, para que vire conhecimento.
 
-### Colaboração
+4. Colaboração
 Colaboração é tratarmos uns aos outros com respeito, amizade, trabalhando em prol do coletivo, sem vaidade, ego e individualismo. O nosso sempre vem primeiro do meu.
 
-### Focamos no Longo Prazo
+5. Focamos no Longo Prazo
 Focamos no longo prazo, afinal sonhamos grande e estamos aqui para construir algo que seja realmente GIGANTE e transformacional. Priorizaremos sempre o longo prazo, por mais dolorida e difícil que a decisão se mostre no curto prazo.
 
-### Executamos Muito
+6. Executamos Muito
 Executamos muito e somos focados no resultado. Nosso ambiente é um lugar de pessoas que gostam de trabalhar duro para cumprir nosso propósito.
 
-### Qualidade é Prioridade
+7. Qualidade é Prioridade
 Qualidade é prioridade. Somos obcecados por entregas de excelência, que surpreendam positivamente e superem as expectativas dos nossos clientes.
 
-### Reconhecemos os Talentos
+8. Reconhecemos os Talentos
 Reconhecemos os talentos, pois sabemos que, para vencer, temos que nos cercar sempre das melhores pessoas. Buscamos construir um ambiente de excelência, onde todo o time seja exposto a desafios, oportunidades e, claro, recompensas.
 
