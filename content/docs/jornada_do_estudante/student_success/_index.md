@@ -1,8 +1,8 @@
 ---
 weight: 3
-title: "Student Success/Sucesso do Estudante"
+title: "Sucesso do Estudante"
 ---
 
-# Student Success
+# Sucesso do Estudante
 
 Vertical responsável pelo sucesso do/da estudante após a graduação no curso da Trybe
