@@ -1,8 +1,8 @@
 ---
 weight: 1
-title: "Admissions/Seleção"
+title: "Seleção"
 ---
 
-# Admissions
+# Seleção
 
 Vertical responsável pelo processo seletivo das pessoas candidatas a entrar no curso da Trybe
