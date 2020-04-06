@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Onboarding dos Estudantes"
+title: "Onboarding de Estudantes"
 ---
 
 # Onboarding dos Estudantes e Welcome Days
