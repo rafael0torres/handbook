@@ -2,3 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Trybe Playbook"
 theme = "book"
+
+[params]
+  bookLogo = "/logo.png"
