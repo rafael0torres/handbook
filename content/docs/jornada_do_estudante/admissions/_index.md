@@ -13,8 +13,8 @@ Vertical responsável pelo processo seletivo das pessoas candidatas a entrar no 
 
 | Nome        | Email		| Linkedin    	|
 | :---        | :---        | :---          |
-| Coronel      | lucas.armormino@betrybe.com       | [title](https://www.example.com)   |
-| Bila   | gabriel.mello@betrybe.com        | [title](https://www.example.com)      |
+| Coronel      | lucas.armormino@betrybe.com       | {{< button href="https://www.linkedin.com/in/lucasamormino/" >}}Linkedin{{< /button >}}   |
+| Bila   | gabriel.mello@betrybe.com        | {{< button href="https://www.linkedin.com/in/gabriel-soares-mello-22a412147/" >}}Linkedin{{< /button >}}      |
 
-
+{{< button href="https://www.linkedin.com/in/lucasamormino/" >}}Linkedin{{< /button >}}
 ## Como nos Organizamos
