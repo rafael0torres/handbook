@@ -20,7 +20,7 @@ Vertical responsável pelo processo seletivo das pessoas candidatas a entrar no 
 ## Como nos Organizamos: O Funil de Seleção
 
 1. Inscrições com Disponibilidade
-2. Free Course
+2. [Free Course](freecourse.md)
 3. Análise de Vídeo
 4. Entrevista Final
 5. Aprovação
