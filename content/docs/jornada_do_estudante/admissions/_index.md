@@ -21,12 +21,12 @@ Vertical responsável pelo processo seletivo das pessoas candidatas a entrar no 
 
 1. Inscrições com Disponibilidade
 2. [Free Course](freecourse)
-3. Análise de Vídeo
-4. Entrevista Final
-5. Aprovação
-6. Pré-Matrícula
-7. BackGround Check
-8. Matrícula
+3. [Análise de Vídeo](analiseVideo)
+4. [Entrevista Final](entrevistaFinal)
+5. [Aprovação](aprovacao)
+6. [Pré-Matrícula](preMatricula)
+7. [BackGround Check](bgc)
+8. [Matrícula](matricula)
 
 
 
