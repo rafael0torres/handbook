@@ -1,9 +1,10 @@
 ---
 weight: 1
-title: "Seleção"
+title: "Nome da Vertical"
 ---
 
 # Seleção
+
 
 ## Nossa Missão
 Vertical responsável pelo processo seletivo das pessoas candidatas a entrar no curso da Trybe
@@ -13,8 +14,9 @@ Vertical responsável pelo processo seletivo das pessoas candidatas a entrar no 
 
 | Nome        | Email		| Linkedin    	|
 | :---        | :---        | :---          |
-| Coronel      | lucas.armormino@betrybe.com       | [title](https://www.example.com)   |
-| Bila   | gabriel.mello@betrybe.com        | [title](https://www.example.com)      |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 
 
 ## Como nos Organizamos
+
