@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Trybe Playbook"
-theme = "book"
+theme = "playbook-hugo-theme"
 
 [params]
   bookLogo = "/logo.png"
