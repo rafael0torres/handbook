@@ -1,6 +1,6 @@
 ---
 weight: 2
-bookCollapseSection: "Aprendizagem"
+bookCollapseSection: true
 ---
 
 # Aprendizagem
