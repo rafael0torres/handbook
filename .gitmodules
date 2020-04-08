@@ -1,0 +1,3 @@
+[submodule "themes/playbook-hugo-theme"]
+	path = themes/playbook-hugo-theme
+	url = git@github.com:betrybe/playbook-hugo-theme.git
