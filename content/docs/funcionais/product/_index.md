@@ -19,4 +19,4 @@ Funcional responsável pelo desenvolvimento do nosso produto
 | Lucas Azevedo   		| Lucas			|							| lucas.azevedo@betrybe.com    		| {{< button href="https://www.linkedin.com/in/lucasazevedo-productdesigner/" >}}Linkedin{{< /button >}} |
 
 
-## Como nos Organizamos: O Funil de Seleção
+## Como nos Organizamos: Discover and Delivery
